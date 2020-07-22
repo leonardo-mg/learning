@@ -1,2 +1,2 @@
 # learning
-Mis prácticas de JS
+aprendiendo a usar Git
